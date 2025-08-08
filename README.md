@@ -1,3 +1,5 @@
+> 20/20 :star:
+
 ## Executar o projeto
 
 ```bash
